@@ -1,0 +1,58 @@
+test@example.com
+john.doe@gmail.com
+user123@yahoo.com
+a@b.co
+hello.world@outlook.com
+user_name@example.org
+user-name@example.net
+user.name123@example.com
+123@example.com
+x@y.zw
+firstname.lastname@company.com
+admin@mail-server.com
+contact@sub.domain.com
+user+tag@gmail.com
+user+work+important@example.com
+customer.service@amazon.com
+my_email123@test-domain.org
+a1.b2.c3@foo.bar
+email@localhost.localdomain
+name@something.io
+
+plainaddress
+@example.com
+user@
+user
+user@.com
+user@com
+user@domain.
+user@domain..com
+user..name@example.com
+user.@example.com
+.user@example.com
+user@-example.com
+user@example-.com
+user@example
+user@example,com
+user@example com
+user@ example.com
+user @example.com
+user@example..org
+user@@example.com
+user@example@com
+user@example.c
+user@example.toolongtlddddddddddddddddddddd
+hello world@example.com
+hello@world@example.com
+user@example..com
+user@.domain.com
+
+"john doe"@example.com
+"user@name"@example.com
+user%example@example.org
+customer/department@example.com
+user!name@example.com
+user=name@example.com
+very.common@example.com
+____@example.com
+user+newsletter@gmail.com
